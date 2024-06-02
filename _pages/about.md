@@ -10,7 +10,7 @@ redirect_from:
 I'm a Second year undergraduate student from [Xi'an jiaotong university](https://www.xjtu.edu.cn/),majoring in Statistic and minoring in Financial engineering. My research interest includes Statistic learning, Graph neural network, data analysis and inference and related applications in finance, transporation, biology.
 
 
-[Email](ruihua.chen@stu.xjtu.edu.cn) / [Github](https://github.com/CozyHUA) / [Wechat](../images/Wechat.jpg)
+[Email](mailto:ruihua.chen@stu.xjtu.edu.cn) / [Github](https://github.com/CozyHUA) / [Wechat](https://cozyhua.github.io/ChenRuihua.github.io/images/Wechat.jpg)
 
 
 
