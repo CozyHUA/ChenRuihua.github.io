@@ -12,7 +12,7 @@ title                    : "Ruihua.Chen's information"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://cozyhua.github.io
+url                      : https://ChenRuihua.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
