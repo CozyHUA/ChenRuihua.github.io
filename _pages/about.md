@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 I'm a Second year undergraduate student from [Xi'an jiaotong university](https://www.xjtu.edu.cn/),majoring in Statistic and minoring in Financial engineering. My research interest includes Statistic learning, Graph neural network, data analysis and inference and related applications in finance, transporation, biology.
 
 
-[Email](ruihua.chen@stu.xjtu.edu.cn) / [Github](https://github.com/CozyHUA) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](ruihua.chen@stu.xjtu.edu.cn) / [Github](https://github.com/CozyHUA) / [Wechat](../images/Wechat.jpg)
 
 
 
