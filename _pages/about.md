@@ -29,8 +29,23 @@ Scientific research item
 2. 2023.6 - 2024.5 ：
 3. 2023.11 - 2024.3 ：
 
+Competition honor
+======
+
 Honor and Award
 ======
 1. 2023: Third class scholarship, University level, Xi 'an Jiaotong University
 2. 2023: Outstanding student, University level, Xi 'an Jiaotong University
-3. 
+3. 2023: Excellent League member, University level, Xi'an Jiaotong University 
+
+Student work
+======
+1. 2022.9 - 2023.6:
+2. 2023.9 - 2024.6:
+3. 2023.9 - 2024.6:
+
+Social pratice
+======
+1. 2023.7 - 2023.9:
+2. 2023.7 - 2023.9:
+3. 2024.1 - 2024.2: 
