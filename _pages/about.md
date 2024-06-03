@@ -25,12 +25,16 @@ Education experience
 
 Scientific research item
 ======
-1. 2024.5 - 2025.6 ：
-2. 2023.6 - 2024.5 ：
-3. 2023.11 - 2024.3 ：
+1. 2024.5 - 2025.6 ：College Students' Innovative Entrepreneurial Training Plan Program“Traffic flow prediction based on graph neural network”, National level, leader, 7000rmb
+2. 2023.6 - 2024.5 ：College Students' Innovative Entrepreneurial Training Plan Program“Mathematical model of Marangoni countercurrent phenomenon”, Provincial level, core member, 4000rmb
 
 Competition honor
 ======
+1. 2023: China Undergraduate Physics Tournament, Shaanxi, Outstanding winner
+2. 2023: China Undergraduate Physics Tournament, Northwest division, First price
+3. 2023: The Chinese Mathematics Competitions, Shaanxi, First price
+4. 2023: China Undergraduate Mathematical Contests in Modeling, Shaanxi, Second price
+5. 2024: Mathematical Contest In Modeling, Meritorious Winner
 
 Honor and Award
 ======
@@ -40,9 +44,8 @@ Honor and Award
 
 Student work
 ======
-1. 2022.9 - 2023.6:
-2. 2023.9 - 2024.6:
-3. 2023.9 - 2024.6:
+2. 2023.9 - 2024.6: Minister, Publicity Department, CCYL committee, Lizi College, Xi'an jiaotong university
+3. 2023.9 - 2024.6: Minister, Center for Academic Promotion and Development, Lizi College, Xi'an jiaotong university
 
 Social pratice
 ======
