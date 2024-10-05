@@ -37,3 +37,10 @@ Student and Social Work
 2. 2023.9 - 2024.6: Minister, Center for Academic Promotion and Development, Lizi College, Xi'an jiaotong university
 3. 2024.9 - 2025.6: Director, Center for Academic Promotion and Development, Lizi College, Xi'an jiaotong university
 
+Researches and Publication
+======
+[Full Waveform Inversion] FWI is a classical inversion problem in the area of geophysics, which aims at imaging the subsurface of seismic with the observed seisimic data, our team are researching physics-guided machine learning approaches with implicit neural networks and Low-rank tensor function decomposition, like Physics-informed Neural Networks, Neural Operator and so on, here are some of our publication and presentation:
+1. Full Waveform Inversion With Velocity Model Low-Rank Implicit Neural Networks.
+
+[paper](mailto:ruihua.chen@stu.xjtu.edu.cn) / [code](https://github.com/CozyHUA) 
+
