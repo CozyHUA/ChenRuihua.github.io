@@ -7,22 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Second year undergraduate student from [Xi'an jiaotong university](https://www.xjtu.edu.cn/),majoring in Statistic and minoring in Financial engineering. 
+I'm a Third year undergraduate student from [Xi'an jiaotong university](https://www.xjtu.edu.cn/),majoring in Statistic and minoring in Financial engineering. My interested research focus on Inversion Problem with Artificial Intelligence and its applications in Geophysics and so on. The key words about my researches are: Inversion Problem, Full Waveform Inversion, Implicit Neural Networks, Physics-informed Neural Networks, Neural Operator, Low-Rank Tensor Function Decomposition.
 
 [Email](mailto:ruihua.chen@stu.xjtu.edu.cn) / [Github](https://github.com/CozyHUA) / [Wechat](../images/whchat.jpg)
-
-
-
-Interest in the research direction
-======
-Statistic learning, Graph neural network, data analysis and inference and related applications in finance, transporation, biology.
-
 Education experience
 ======
 1. 2019 - 2022 : Bao 'an Middle School, Shenzhen, Guangdong Province, China
 2. 2022 - 2026 : Xi 'an Jiaotong University, Xi 'an, Shaanxi, China. Bachelor of Statistics
-3. 2022 - 2026 : Xi 'an Jiaotong University, Xi 'an, Shaanxi, China. Bachelor of Financial Engineering
-
+3. 2023 - 2026 : Xi 'an Jiaotong University, Xi 'an, Shaanxi, China. Bachelor of Financial Engineering
 Scientific research item
 ======
 1. 2024.5 - 2025.6 ：College Students' Innovative Entrepreneurial Training Plan Program“Traffic flow prediction based on graph neural network”, National level, leader, 7000rmb
@@ -44,11 +36,7 @@ Honor and Award
 
 Student work
 ======
-2. 2023.9 - 2024.6: Minister, Publicity Department, CCYL committee, Lizi College, Xi'an jiaotong university
-3. 2023.9 - 2024.6: Minister, Center for Academic Promotion and Development, Lizi College, Xi'an jiaotong university
+1. 2023.9 - 2024.6: Minister, Publicity Department, CCYL committee, Lizi College, Xi'an jiaotong university
+2. 2023.9 - 2024.6: Minister, Center for Academic Promotion and Development, Lizi College, Xi'an jiaotong university
+3. 2024.9 - 2025.6: Director, Center for Academic Promotion and Development, Lizi College, Xi'an jiaotong university
 
-Social pratice
-======
-1. 2023.7 - 2023.9:
-2. 2023.7 - 2023.9:
-3. 2024.1 - 2024.2: 
