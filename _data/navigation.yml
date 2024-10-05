@@ -1,19 +1,13 @@
 # main links links
 main:
-  - title: "Paper"
-    url: /paper/
-
-  - title: "Research"
+  - title: "Works and Researches"
     url: /research/
 
-  - title: "Competition"
-    url: /competition/
+  - title: "Publication and Paper"
+    url: /paper/
 
-  - title: "Course"
+  - title: "Presentations and Conference"
     url: /course/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
 
 
