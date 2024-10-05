@@ -41,6 +41,6 @@ Researches and Publication
 ======
 [Full Waveform Inversion] FWI is a classical inversion problem in the area of geophysics, which aims at imaging the subsurface of seismic with the observed seisimic data, our team are researching physics-guided machine learning approaches with implicit neural networks and Low-rank tensor function decomposition, like Physics-informed Neural Networks, Neural Operator and so on, here are some of our publication and presentation:
 1. Full Waveform Inversion With Velocity Model Low-Rank Implicit Neural Networks.
-
+!(https://github.com/CozyHUA/ChenRuihua.github.io/blob/master/images/workflow.png?raw=true)
 [paper](mailto:ruihua.chen@stu.xjtu.edu.cn) / [code](https://github.com/CozyHUA) 
 
