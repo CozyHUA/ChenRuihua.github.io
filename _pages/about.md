@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Third year undergraduate student from [Xi'an jiaotong university](https://www.xjtu.edu.cn/),majoring in Statistic and minoring in Financial engineering. My interested research focus on Inversion Problem with Artificial Intelligence and its applications in Geophysics and so on. The key words about my researches are: Inversion Problem, Full Waveform Inversion, Implicit Neural Networks, Physics-informed Neural Networks, Neural Operator, Low-Rank Tensor Function Decomposition.
+I'm a Third year undergraduate student from [Xi'an jiaotong university](https://www.xjtu.edu.cn/),majoring in Statistic and minoring in Financial engineering and I'm an outstanding student and excellent league member in XJTU. My interested research focus on Inversion Problem with Artificial Intelligence and its applications in Geophysics and so on. The key words about my researches are: Inversion Problem, Full Waveform Inversion, Implicit Neural Networks, Physics-informed Neural Networks, Neural Operator, Low-Rank Tensor Function Decomposition.
 
 [Email](mailto:ruihua.chen@stu.xjtu.edu.cn) / [Github](https://github.com/CozyHUA) / [Wechat](../images/whchat.jpg)
 
@@ -30,8 +30,6 @@ Honor and Award
 4. 2023: China Undergraduate Mathematical Contests in Modeling, Shaanxi, Second price
 5. 2024: Mathematical Contest In Modeling, Meritorious Winner
 6. 2023: Third class scholarship, University level, Xi 'an Jiaotong University
-7. 2023: Outstanding student, University level, Xi 'an Jiaotong University
-8. 2023: Excellent League member, University level, Xi'an Jiaotong University 
 
 Student and Social Work
 ======
